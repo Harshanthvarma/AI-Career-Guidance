@@ -1,0 +1,9 @@
+# Node (React)
+node_modules/
+
+# Python
+venv/
+__pycache__/
+
+# Environment files (API keys)
+.env
