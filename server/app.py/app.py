@@ -1,0 +1,1 @@
+print("Flask server folder ready")
